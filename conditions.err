@@ -1,0 +1,45 @@
+Parsed with column specification:
+cols(
+  Plate_ID = col_character(),
+  index2 = col_character(),
+  RNA_copies = col_double(),
+  RNA_origin = col_character(),
+  spike_copies = col_double(),
+  lysate = col_character(),
+  nCoV_amplicon = col_character(),
+  nCoV_primer_nM = col_double(),
+  RPP30_primer_nM = col_double(),
+  RPP30_inner_primer_nM = col_double(),
+  bc_set = col_character(),
+  RT_temp = col_double(),
+  PCR_cycles = col_double(),
+  Sample_Well = col_character(),
+  index = col_character(),
+  Sample_ID = col_character()
+)
+Parsed with column specification:
+cols(
+  Plate_ID = [31mcol_character()[39m,
+  RNA_copies = [32mcol_double()[39m,
+  RNA_origin = [31mcol_character()[39m,
+  spike_copies = [32mcol_double()[39m,
+  lysate = [31mcol_character()[39m,
+  nCoV_amplicon = [31mcol_character()[39m,
+  nCoV_primer_nM = [32mcol_double()[39m,
+  RPP30_primer_nM = [32mcol_double()[39m,
+  RPP30_inner_primer_nM = [32mcol_double()[39m,
+  bc_set = [31mcol_character()[39m,
+  RT_temp = [32mcol_double()[39m,
+  PCR_cycles = [32mcol_double()[39m,
+  Sample_Well = [31mcol_character()[39m,
+  Sample_ID = [31mcol_character()[39m,
+  index = [31mcol_character()[39m,
+  index2 = [31mcol_character()[39m
+)
+Parsed with column specification:
+cols(
+  sequence = [31mcol_character()[39m,
+  target = [31mcol_character()[39m,
+  amplicon = [31mcol_character()[39m,
+  bc_set = [31mcol_character()[39m
+)
